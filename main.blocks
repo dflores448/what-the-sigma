@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="v+XGr6Qej[A?=tR;qtZ3" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="ZWi5;`VPd/__Jwa#A3iH"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_print_message" id="t.$C9@[):AXEd#]2::]w"><value name="text"><shadow type="text" id="@3I0,fqqX=YSA;p|cVHt"><field name="TEXT">WHAT THE SIGMA</field></shadow></value><next><block type="record_startRecording" id=":Lasjo360e6l#w=nqAGk"><field name="mode">record.BlockingState.Nonblocking</field></block></next></block></next></block></statement></block></xml>
